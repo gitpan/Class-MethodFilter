@@ -1,0 +1,8 @@
+ARTISTIC
+Build.PL
+GPL
+lib/Class/MethodFilter.pm
+MANIFEST			This list of files
+META.yml
+README
+t/00tests.t
