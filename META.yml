@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name: Class-MethodFilter
-version: 0.01
+version: 0.02
 author:
   - Matt S Trout <mstrout@cpan.org>
 abstract: add filters to class methods
@@ -8,5 +8,5 @@ license: perl
 provides:
   Class::MethodFilter:
     file: lib/Class/MethodFilter.pm
-    version: 0.01
-generated_by: Module::Build version 0.24
+    version: 0.02
+generated_by: Module::Build version 0.25

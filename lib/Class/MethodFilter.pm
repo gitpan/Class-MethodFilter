@@ -5,7 +5,7 @@ use warnings;
 use vars qw/$VERSION/;
 use Carp;
 
-$VERSION = "0.01";
+$VERSION = "0.02";
 
 =head1 NAME
 
